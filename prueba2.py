@@ -1,1 +1,3 @@
-print("Prueba 2")
+p
+int("Prueba 2")
+modificación
